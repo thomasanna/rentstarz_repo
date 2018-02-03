@@ -1,0 +1,354 @@
+"NETWORK_VIEWS_SCRIPTS_ADMINMANAGE_INDEX_DESCRIPTION";"Networks are generally used for determining what members see in the ""what's new"" feed, letting members associate with each other based on common profile information (without needing to be friends directly), and serving advertisements to specific groups of members. Each member can join one or more networks if you allow them to, and their networks will be shown on their profile. If you decide to have networks, be sure that they relate to your community's theme. For example, if your community has members from various countries, you can create a network for each country. If you want your members to see recent posts from other people in their networks (even if they're not yet friends with each other), you can adjust that setting %s."
+"Groups";"Associations"
+"View All Groups";"View All Associations"
+"group";"associations";"associations"
+"%s group";"%s associations";"%s associations"
+"Search Groups:";"Search Associations:"
+"Tip: %1$sClick here%2$s to create a group or %3$sbrowse%2$s for groups to join!";"Tip: %1$sClick here%2$s to create a group or %3$sbrowse%2$s for associations to join!"
+"All My Groups";"All My Associations"
+"Only Groups I Lead";"Only Associations I Lead"
+"_ACTIVITY_ACTIONTYPE_GROUP_CREATE";"New associations"
+"ACTIVITY_TYPE_COMMENT_GROUP";"When someone comments on one of my associations."
+"ACTIVITY_TYPE_LIKE_GROUP";"When someone likes one of my associations."
+"Allow Viewing of Groups?";"Allow Viewing of associations?"
+"GROUP_FORM_ADMIN_LEVEL_VIEW_DESCRIPTION";"Do you want to let users view associations? If set to no, some other settings on this page may not apply."
+"No, do not allow groups to be viewed.";"No, do not allow associations to be viewed."
+"Yes, allow viewing and subscription of groups.";"Yes, allow viewing and subscription of associations."
+"Yes, allow members to view all groups, even private ones.";"Yes, allow members to view all associations, even private ones."
+"Allow Creation of Groups?";"Allow Creation of associations?"
+"GROUP_FORM_ADMIN_LEVEL_CREATE_DESCRIPTION";"Do you want to let users create associations? If set to no, some other settings on this page may not apply. This is useful if you want users to be able to view associations and manage their subscriptions, but only want certain levels to be able to create groups."
+"No, do not allow groups to be created.";"No, do not allow associations to be created."
+"Yes, allow creation of groups.";"Yes, allow creation of associations."
+"Allow Editing of Groups?";"Allow Editing of Associations?"
+"Do you want to let users edit and delete groups?";"Do you want to let users edit and delete associations?"
+"No, do not allow groups to be edited.";"No, do not allow associations to be edited."
+"Yes, allow  members to edit their own groups.";"Yes, allow  members to edit their own associations."
+"Yes, allow members to edit everyone's groups.";"Yes, allow members to edit everyone's associations."
+"GROUP_FORM_ADMIN_LEVEL_AUTHPHOTO_DESCRIPTION";"Your users can choose from any of the options checked below when they decide who can upload photos to their associations. If you do not check any options, settings will default to the last saved configuration. If you select only one option, members of this level will not have a choice."
+"GROUP_FORM_ADMIN_LEVEL_AUTHEVENT_DESCRIPTION";"Your users can choose from any of the options checked below when they decide who can create events in their associations. If you do not check any options, settings will default to the last saved configuration. If you select only one option, members of this level will not have a choice."
+"My Groups";"My associations"
+"Are you sure you want to delete the selected groups?";"Are you sure you want to delete the selected associations?"
+"GROUP_VIEWS_SCRIPTS_ADMINMANAGE_INDEX_DESCRIPTION";"This page lists all of the group entries your users have posted. You can use this page to monitor these associations and delete offensive material if necessary. Entering criteria into the filter fields will help you find specific associations entries. Leaving the filter fields blank will show all the associations entries on your social network."
+"GROUP_VIEWS_SCRIPTS_ADMINSETTINGS_CATEGORIES_DESCRIPTION";"If you want to allow your users to categorize their associations, create the categories below. This feature is useful if you want to list all your users' associations that If you have no categories, your users will not be given the option of assigning a association category."
+"Browse Groups";"Browse associations"
+"Groups Plugin";"Associations Plugin"
+"Manage Groups";"Manage Associations"
+"Allow Deletion of Groups?";"Allow Deletion of Associations?"
+"Do you want to let members delete groups? If set to no, some other settings on this page may not apply.";"Do you want to let members delete associations? If set to no, some other settings on this page may not apply."
+"Yes, allow members to delete their own groups.";"Yes, allow members to delete their own associations."
+"No, do not allow members to delete their groups.";"No, do not allow members to delete their associations."
+"Allow Commenting on Groups?";"Allow Commenting on Associations?"
+"Do you want to let members of this level comment on groups?";"Do you want to let members of this level comment on associations?"
+"Yes, allow members to comment on groups.";"Yes, allow members to comment on associations."
+"No, do not allow members to comment on groups.";"No, do not allow members to comment on associations."
+"Profile Groups";"Profile Associations"
+"ITEM_TYPE_GROUP";"Associations"
+"Everyone's Groups";"Everyone's Associations"
+"You have not joined any groups yet.";"You have not joined any associations yet."
+"There are no groups yet.";"There are no associations yet."
+"Inbox";"Inbox"
+"Sent Messages";"Sent Messages"
+"%s Purity Template";"%s Rentstarz"
+"";""
+"USER_FORM_ADMIN_SIGNUP_TERMS_DESCRIPTION";"Require members to agree to your terms of service?  You can modifying your terms of service by editing the _CORE_TERMS_OF_SERVICE language variable in the application/languages/en/core.csv file."
+"_CORE_TERMS_OF_SERVICE";"Statement of Rights and Responsibilities
+
+
+Statement of Rights and Responsibilities (""Statement,"" ""Terms,"" or ""SRR"") derives from Rentstarz, and is our terms of service that governs our relationship with users and others who interact with Rentstarz, as well as Rentstarz brands, products and services, which we call the . By using or accessing the Rentstarz Services, you agree to this Statement, as updated from time to time in accordance with Section 13 below. Additionally, you will find resources at the end of this document that help you understand how Rentstarz works.
+Because Rentstarz provides a wide range of service, we may ask you to review and accept supplemental terms that apply to your interaction with a specific app, product, or service. To the extent those supplemental terms conflict with this SRR, the supplemental terms associated with the app, product, or service govern with respect to your use of such app, product or service to the extent of the conflict.
+1   Privacy
+2
+3   Your privacy is very important to us. We designed site to make important disclosures about how you can use Rentstarz to share with others and how we collect and can use your content and information. We encourage you to read the our Data policy and to use it to help you make informed decisions.
+4
+5   Sharing Your Content and Information
+6
+7   You own all of the content and information you post on Rentstarz, and you can control how it is shared through your privacy and application settings. In addition:
+1   For content that is covered by intellectual property rights, like photos and videos (IP content), you specifically give us the following permission, subject to your privacy and application settings: you grant us a non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use any IP content that you post on or in connection with Rentstarz (IP License). This IP License ends when you delete your IP content or your account unless your content has been shared with others, and they have not deleted it.
+2   When you delete IP content, it is deleted in a manner similar to emptying the recycle bin on a computer. However, you understand that removed content may persist in backup copies for a reasonable period of time (but will not be available to others).
+3   When you use an application, the application may ask for your permission to access your content and information as well as content and information that others have shared with you.  We require applications to respect your privacy, and your agreement with that application will control how the application can use, store, and transfer that content and information.  (To learn more about Platform, including how you can control what information other people may share with applications, read our Data Policy and platform page.)
+4   When you publish content or information using the Public setting, it means that you are allowing everyone, including people off of Rentstarz, to access and use that information, and to associate it with you (i.e., your name and profile picture).
+5   We always appreciate your feedback or other suggestions about Rentstarz, but you understand that we may use your feedback or suggestions without any obligation to compensate you for them (just as you have no obligation to offer them).
+6
+8   Safety
+9
+10  We do our best to keep Rentstarz safe, but we cannot guarantee it. We need your help to keep Rentstarz safe, which includes the following commitments by you:
+1   You will not post unauthorized commercial communications (such as spam) on Rentstarz.
+2   You will not collect users' content or information, or otherwise access Rentstarz, using automated means (such as harvesting bots, robots, spiders, or scrapers) without our prior permission.
+3   You will not engage in unlawful multi-level marketing, such as a pyramid scheme, on Rentstarz.
+4   You will not upload viruses or other malicious code.
+5   You will not solicit login information or access an account belonging to someone else.
+6   You will not bully, intimidate, or harass any user.
+7   You will not post content that: is hate speech, threatening, or pornographic; incites violence; or contains nudity or graphic or gratuitous violence.
+8   You will not develop or operate a third-party application containing alcohol-related, dating or other mature content (including advertisements) without appropriate age-based restrictions.
+9   You will not use Rentstarz to do anything unlawful, misleading, malicious, or discriminatory.
+10  You will not do anything that could disable, overburden, or impair the proper working or appearance of Rentstarz, such as a denial of service attack or interference with page rendering or other Rentstarz functionality.
+11  You will not facilitate or encourage any violations of this Statement or our policies.
+12
+11  Registration and Account Security
+12
+13  Rentstarz users provide their real names and information, and we need your help to keep it that way. Here are some commitments you make to us relating to registering and maintaining the security of your account:
+1   You will not provide any false personal information on Rentstarz, or create an account for anyone other than yourself without permission.
+2   You will not create more than one personal account.
+3   If we disable your account, you will not create another one without our permission.
+4   You will not use your personal timeline primarily for your own commercial gain, and will use a Rentstarz Page for such purposes.
+5   You will not use Rentstarz if you are under 13.
+6   You will not use Rentstarz if you are a convicted sex offender.
+7   You will keep your contact information accurate and up-to-date.
+8   You will not share your password (or in the case of developers, your secret key), let anyone else access your account, or do anything else that might jeopardize the security of your account.
+9   You will not transfer your account (including any Page or application you administer) to anyone without first getting our written permission.
+10  If you select a username or similar identifier for your account or Page, we reserve the right to remove or reclaim it if we believe it is appropriate (such as when a trademark owner complains about a username that does not closely relate to a user's actual name).
+11
+14  Protecting Other People's Rights
+15
+16  We respect other people's rights, and expect you to do the same.
+1   You will not post content or take any action on Rentstarz that infringes or violates someone else's rights or otherwise violates the law.
+2   We can remove any content or information you post on Rentstarz if we believe that it violates this Statement or our policies.
+
+3   If we remove your content for infringing someone else's copyright, and you believe we removed it by mistake, we will provide you with an opportunity to appeal.
+4   If you repeatedly infringe other people's intellectual property rights, we will disable your account when appropriate.
+5   You will not use our copyrights or Trademarks or any confusingly similar marks, except as expressly permitted by our Brand Usage Guidelines or with our prior written permission.
+6   If you collect information from users, you will: obtain their consent, make it clear you (and not Rentstarz) are the one collecting their information, and post a privacy policy explaining what information you collect and how you will use it.
+7   You will not post anyone's identification documents or sensitive financial information on Rentstarz.
+8   You will not tag users or send email invitations to non-users without their consent. Rentstarz offers social reporting tools to enable users to provide feedback about tagging.
+9
+17  Mobile and Other Devices
+18
+1   We currently provide our mobile services for free, but please be aware that your carrier's normal rates and fees, such as text messaging and data charges, will still apply.
+2   In the event you change or deactivate your mobile telephone number, you will update your account information on Rentstarz within 48 hours to ensure that your messages are not sent to the person who acquires your old number.
+3   You provide consent and all rights necessary to enable users to sync (including through an application) their devices with any information that is visible to them on Rentstarz.
+4
+19  Payments
+20
+21  If you make a payment on Rentstarz, you agree to our payment policy unless it is stated that other terms apply.
+22
+23  Special Provisions Applicable to Developers/Operators of Applications and Websites
+24
+25  If you are a developer or operator of a Platform application or website or if you use Social Plugins, you must comply with the platform policy.
+
+26  About Advertisements and Other Commercial Content Served or Enhanced by Rentstarz
+
+Our goal is to deliver advertising and other commercial or sponsored content that is valuable to our users and advertisers. In order to help us do that, you agree to the following:
+1   You give us permission to use your name, profile picture, content, and information in connection with commercial, sponsored, or related content (such as a brand you like) served or enhanced by us. This means, for example, that you permit a business or other entity to pay us to display your name and/or profile picture with your content or information, without any compensation to you. If you have selected a specific audience for your content or information, we will respect your choice when we use it.
+2   We do not give your content or information to advertisers without your consent.
+3   You understand that we may not always identify paid services and communications as such.
+4
+27
+28  Special Provisions Applicable to Advertisers
+29
+30  If you use our self-service advertising creation interfaces for creation, submission and/or delivery of any advertising or other commercial or sponsored activity or content (collectively, the “Self-Serve Ad Interfaces”), you agree to our Self-Serve AD Terms In addition, your advertising or other commercial or sponsored activity or content placed on Rentstarz or our publisher network will comply with our Advertising policy.
+31  Special Provisions Applicable to Pages
+32
+33  If you create or administer a Page on Rentstarz, or run a promotion or an offer from your Page, you agree to our Page Term.
+34
+35  Special Provisions Applicable to Software
+36
+1   If you download or use our software, such as a stand-alone software product, an app, or a browser plugin, you agree that from time to time, the software may download and install upgrades, updates and additional features from us in order to improve, enhance, and further develop the software.
+2   You will not modify, create derivative works of, decompile, or otherwise attempt to extract source code from us, unless you are expressly permitted to do so under an open source license, or we give you express written permission.
+3
+37  Amendments
+38
+1   We’ll notify you before we make changes to these terms and give you the opportunity to review and comment on the revised terms before continuing to use our Services.
+2   If we make changes to policies, guidelines or other terms referenced in or incorporated by this Statement, we may provide notice on the Site Governance Page.
+3   Your continued use of the Rentstarz Services, following notice of the changes to our terms, policies or guidelines, constitutes your acceptance of our amended terms, policies or guidelines.
+4
+39  Termination
+40
+41  If you violate the letter or spirit of this Statement, or otherwise create risk or possible legal exposure for us, we can stop providing all or part of Rentstarz to you. We will notify you by email or at the next time you attempt to access your account. You may also delete your account or disable your application at any time. In all such cases, this Statement shall terminate, but the following provisions will still apply: 2.2, 2.4, 3-5, 9.3, and 14-18.
+42
+43  Disputes
+44
+1   You will resolve any claim, cause of action or dispute (claim) you have with us arising out of or relating to this Statement or Rentstarz exclusively in a state court located in Kings County, and you agree to submit to the personal jurisdiction of such courts for the purpose of litigating all such claims. The laws of the State of New York will govern this Statement, as well as any claim that might arise between you and us, without regard to conflict of law provisions.
+2   If anyone brings a claim against us related to your actions, content or information on Rentstarz, you will indemnify and hold us harmless from and against all damages, losses, and expenses of any kind (including reasonable legal fees and costs) related to such claim. Although we provide rules for user conduct, we do not control or direct users' actions on Rentstarz and are not responsible for the content or information users transmit or share on Rentstarz. We are not responsible for any offensive, inappropriate, obscene, unlawful or otherwise objectionable content or information you may encounter on Rentstarz. We are not responsible for the conduct, whether online or offline, of any user of Rentstarz.
+3   WE TRY TO KEEP Rentstarz UP, BUG-FREE, AND SAFE, BUT YOU USE IT AT YOUR OWN RISK. WE ARE PROVIDING Rentstarz AS IS WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT GUARANTEE THAT RENTSTARZ WILL ALWAYS BE SAFE, SECURE OR ERROR-FREE OR THAT Rentstarz WILL ALWAYS FUNCTION WITHOUT DISRUPTIONS, DELAYS OR IMPERFECTIONS. Rentstarz IS NOT RESPONSIBLE FOR THE ACTIONS, CONTENT, INFORMATION, OR DATA OF THIRD PARTIES, AND YOU RELEASE US, OUR DIRECTORS, OFFICERS, EMPLOYEES, AND AGENTS FROM ANY CLAIMS AND DAMAGES, KNOWN AND UNKNOWN, ARISING OUT OF OR IN ANY WAY CONNECTED WITH ANY CLAIM YOU HAVE AGAINST ANY SUCH THIRD PARTIES. IF YOU ARE A CALIFORNIA RESIDENT, YOU WAIVE CALIFORNIA CIVIL CODE §1542, WHICH SAYS: A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM OR HER MUST HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR. WE WILL NOT BE LIABLE TO YOU FOR ANY LOST PROFITS OR OTHER CONSEQUENTIAL, SPECIAL, INDIRECT, OR INCIDENTAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS STATEMENT OR Rentstarz, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. OUR AGGREGATE LIABILITY ARISING OUT OF THIS STATEMENT OR Rentstarz WILL NOT EXCEED THE GREATER OF ONE HUNDRED DOLLARS ($100) OR THE AMOUNT YOU HAVE PAID US IN THE PAST TWELVE MONTHS. APPLICABLE LAW MAY NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY OR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU. IN SUCH CASES, Rentstarz LIABILITY WILL BE LIMITED TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW.
+4
+45  Special Provisions Applicable to Users Outside the United States
+46
+47  We strive to create a global community with consistent standards for everyone, but we also strive to respect local laws. The following provisions apply to users and non-users who interact with Rentstarz outside the United States:
+1   You consent to having your personal data transferred to and processed in the United States.
+2   If you are located in a country embargoed by the United States, or are on the U.S. Treasury Department's list of Specially Designated Nationals you will not engage in commercial activities on Rentstarz (such as advertising or payments) or operate a Platform application or website. You will not use Rentstarz if you are prohibited from receiving products, services, or software originating from the United States.
+3   Certain specific terms that apply only for German users are available here.
+48  Definitions
+49
+1   By "" Rentstarz "" or” Rentstarz Services” we mean the features and services we make available, including through (a) our website at www. Rentstarz.com and any other Rentstarz branded or co-branded websites (including sub-domains, international versions, widgets, and mobile versions); (b) our Platform; (c) social plugins such as the Like button, the Share button and other similar offerings; and (d) other media, brands, products, services, software (such as a toolbar), devices, or networks now existing or later developed. Rentstarz reserves the right to designate, in its sole discretion, that certain of our brands, products, or services are governed by separate terms and not this SRR.
+2   By ""Platform"" we mean a set of APIs and services (such as content) that enable others, including application developers and website operators, to retrieve data from Rentstarz or provide data to us.
+3   By ""information"" we mean facts and other information about you, including actions taken by users and non-users who interact with Rentstarz.
+4   By ""content"" we mean anything you or other users post, provide or share using Rentstarz Services.
+5   By ""data"" or ""user data"" or ""user's data"" we mean any data, including a user's content or information that you or third parties can retrieve from Rentstarz or provide to Rentstarz through Platform.
+6   By ""post"" we mean post on Rentstarz or otherwise make available by using Rentstarz.
+7   By ""use"" we mean use, run, copy, publicly perform or display, distribute, modify, translate, and create derivative works of.
+8   By ""application"" we mean any application or website that uses or accesses Platform, as well as anything else that receives or has received data from us.  If you no longer access Platform but have not deleted all data from us, the term application will apply until you delete the data.
+9   By “Trademarks” we mean the list of trademarks provided here.
+10
+50  Other
+51
+1   If you are a resident of or have your principal place of business in the US or Canada, this Statement is an agreement between you and Rentstarz.  Otherwise, this Statement is an agreement between you and Rentstarz. References to “us,” “we,” and “our” mean Rentstarz.
+2   This Statement makes up the entire agreement between the parties regarding Rentstarz, and supersedes any prior agreements.
+3   If any portion of this Statement is found to be unenforceable, the remaining portion will remain in full force and effect.
+4   If we fail to enforce any of this Statement, it will not be considered a waiver.
+5   Any amendment to or waiver of this Statement must be made in writing and signed by us.
+6   You will not transfer any of your rights or obligations under this Statement to anyone else without our consent.
+7   All of our rights and obligations under this Statement are freely assignable by us in connection with a merger, acquisition, or sale of assets, or by operation of law or otherwise.
+8   Nothing in this Statement shall prevent us from complying with the law.
+9   This Statement does not confer any third party beneficiary rights.
+10  We reserve all rights not expressly granted to you.
+11  You will comply with all applicable laws when using or accessing Rentstarz.
+
+
+Verifications: Our verifications are done by a third party. Rentstarz is not responsible for any errors in any verification reports. Landlords  should use good judgement when selecting a tenant and not base their decisions on one particular section of a report. Landlords are encouraged to interview  a prospective tenant either through video communications, chats or person to person interview.
+
+
+
+
+
+"
+"%s 2016 Rentstaz";"%s 2016 Rentstaz"
+"%s 2016 Rentstarz";"%s 2016 Rentstarz"
+"%s 2016 Rentsarz";"%s 2016 Rentsarz"
+"%s Rentstarz";"%s rentstarz"
+"%s rentstarz";"%s rentstarz"
+"%s Rent starz";"%s Rentstarz"
+"I have read and agree to the <a target=""_blank"" href=""%s/help/terms"">terms of service</a>.";"I have read and agree to the <a target=""_blank"" href=""%s/help/terms"">terms of service</a>."
+"Terms of Service";"Terms of Service"
+"You must agree to the terms of service to continue.";"You must agree to the terms of service to continue."
+"Yes, make members agree to your terms of service on signup.";"Yes, make members agree to your terms of service on signup."
+"No, members will not be shown a terms of service checkbox on signup.";"No, members will not be shown a terms of service checkbox on signup."
+"_STORAGE_UPLOAD_DESCRIPTION";"Click ""Add Photos"" to select one or more photos from your computer. After you have selected the photos, they will begin to upload right away. When your upload is finished, click the button below your photo list to save them to your album."
+"Album ";"Gallery ";"Gallery"
+"Album";"Gallerie"
+"Albums";"Galleries"
+"Photo Albums";"Photo Galleries"
+"View All Albums";"View All Gallerie"
+"ADMIN_ACTIVITY_TYPE_ALBUM_PHOTO_NEW";"When a user (subject) uploads a new photo to an gallery (object)."
+"ADMIN_ACTIVITY_TYPE_COMMENT_ALBUM";"When a user (subject) comments on another user's (object) gallery."
+"ADMIN_ACTIVITY_TYPE_COMMENT_ALBUM_PHOTO";"When a user (subject) comments on another user's (object) photos."
+"_ACTIVITY_ACTIONTYPE_ALBUM_PHOTO_NEW";"New photo galleries"
+"_ACTIVITY_ACTIONTYPE_COMMENT_ALBUM";"Comments on your photo Galleries"
+"_ACTIVITY_ACTIONTYPE_COMMENT_ALBUM_PHOTO";"Comments on your photos"
+"ACTIVITY_TYPE_COMMENTED_ALBUM";"When someone comments on an gallery I commented on."
+"ACTIVITY_TYPE_COMMENTED_ALBUM_PHOTO";"When someone comments on a photo I commented on."
+"ACTIVITY_TYPE_COMMENT_ALBUM";"When someone comments on one of my albums."
+"ACTIVITY_TYPE_COMMENT_ALBUM_PHOTO";"When someone comments on one of my photos."
+"ACTIVITY_TYPE_LIKED_ALBUM";"When someone comments on a gallery I liked."
+"ACTIVITY_TYPE_LIKED_ALBUM_PHOTO";"When someone comments on a photo I liked."
+"ACTIVITY_TYPE_LIKE_ALBUM";"When someone likes one of my albums."
+"ACTIVITY_TYPE_LIKE_ALBUM_PHOTO";"When someone likes one of my photos."
+"ACTIVITY_TYPE_ALBUM_PHOTO_NEW";"When a new photo is uploaded."
+"Browse albums by:";"Browse Galleries by:"
+"Nobody has created an album yet.";"Nobody has created a gallery yet."
+"Delete Album";"Delete Gallery"
+"You do not have any albums yet.";"You do not have any Galleries yet."
+"%1$s's Album: %2$s";"%1$s's Gallery: %2$s"
+"Are you sure you want to delete this album?";"Are you sure you want to delete this gallery?"
+"Edit Album Settings";"Edit Gallery Settings"
+"Album Name";"Gallery Name"
+"Please specify an album title";"Please specify an gallery title"
+"Album Description";"Gallery Description"
+"Show this album in search results";"Show this gallery in search results"
+"Who may see this album?";"Who may see this Gallery?"
+"Who may post comments on this album?";"Who may post comments on this Gallery?"
+"Who may tag photos in this album?";"Who may tag photos in this Gallery?"
+"Save Album";"Save Gallery"
+"Album Cover";"Gallery Cover"
+"Choose photos on your computer to add to this album.";"Choose photos on your computer to add to this Gallery."
+"Choose Album";"Choose Gallery"
+"Create A New Album";"Create A New Gallery"
+"Everyone's Albums";"Everyone's Galleries"
+"My Albums";"My Galleries"
+"Browse Albums";"Browse Photos"
+"Search Albums:";"Search Photos"
+"Album Title";"Gallerie Title"
+"How many albums will be shown per page?";"How many Galleries will be shown per page?"
+"View Albums";"View Galleries"
+"Delete Photo Album?";"Delete Photo Gallerie?"
+"ALBUM_VIEWS_SCRIPTS_ADMINMANAGE_DELETE_DESCRIPTION";"Are you sure that you want to delete this photo album? It will not be recoverable after being deleted."
+"ALBUM_FORM_ADMIN_LEVEL_DESCRIPTION";"These settings are applied on a per member level basis. Start by selecting the member level you want to modify, then adjust the settings for that level below."
+"Allow Viewing of Photo Albums?";"Allow Viewing of Photo Galleries?"
+"ALBUM_FORM_ADMIN_LEVEL_VIEW_DESCRIPTION";"Do you want to let users view photo Galleries? If set to no, some other settings on this page may not apply."
+"About us";"
+"
+"copyrights";"copyrights"
+"_EMAIL_NOTIFY_COMMENTED_SUBJECT";"[sender_title] commented on something you posted"
+"_EMAIL_NOTIFY_COMMENTED_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""663"" height=""78""><br> <br> A new comment has been posted on one of your posts by [sender_title]. Please click the following link to view it:<br> <br> http://[host][object_link]<br> <br><strong><br><br></strong><br><br><br><br><br><br>Thank You<br>Admin<br><br><br><br>Rentstarz LLC<br>Copyright 2016 Rentstarz.com. All rights reserve &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style=""font-size: 12pt;"">&nbsp;</span><strong><br></strong>Administration<strong><br></strong>147 Prince St, Brooklyn NY 11201 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style=""font-size: 12pt;""> &nbsp; &nbsp;</span><strong><br></strong>147 Prince St, Brooklyn NY 11201&nbsp;<br><strong>A Better Way To Rent.<br></strong><img src=""http://rentstarz.com/public/admin/streets2.png"" alt="""" width=""661"" height=""217"">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><br>"
+"_EMAIL_HEADER_MEMBER_SUBJECT";""
+"_EMAIL_HEADER_MEMBER_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""674"" height=""78"">&nbsp; &nbsp;&nbsp;<br>&nbsp;&nbsp;<br>&nbsp; &nbsp; &nbsp;Hello [recipient_title],"
+"_EMAIL_FOOTER_MEMBER_SUBJECT";" "
+"_EMAIL_FOOTER_MEMBER_BODYHTML";"&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src=""http://rentstarz.com/public/admin/fun-footer.png"" alt="""" width=""352"" height=""226"">"
+"_EMAIL_FOOTER_SUBJECT";"footer"
+"_EMAIL_FOOTER_BODYHTML";"<img src=""http://rentstarz.com/public/admin/footer.png"" alt="""" width=""469"" height=""317""><span style=""background-color: #ffffff;"">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Rentstarz LLC Copyright 2016<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Rentstarz.com All rights reserve <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;147 Prince Street, brooklyn Ny 11236 <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;<br>&nbsp;</span>"
+"_EMAIL_NOTIFY_LIKED_SUBJECT";"[sender_title] liked your post"
+"_EMAIL_NOTIFY_LIKED_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""663"" height=""78""><br> <br> [sender_title] has liked one of your posts. Please click the following link to view it:<br> <br> http://[host][object_link]<br><br> <br> <img src=""http://rentstarz.com/public/admin/footer.png"" alt="""" width=""469"" height=""317"">"
+"_EMAIL_NOTIFY_FRIEND_ACCEPTED_SUBJECT";"[sender_title] has approved you as a friend."
+"_EMAIL_NOTIFY_FRIEND_ACCEPTED_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""663"" height=""78""><br> <br> [sender_title] has approved you as a friend. Please click the following link to sign in:<br> <br> http://[host][object_link]<br> <img src=""http://rentstarz.com/public/admin/footer.png"" alt="""" width=""469"" height=""317"">"
+"_EMAIL_CORE_CONTACT_SUBJECT";"A member has sent you a message using the contact page."
+"_EMAIL_CORE_CONTACT_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""673"" height=""83""><br>&nbsp;<br>&nbsp; &nbsp; [sender_title] has sent you a message using the contact page:<br> <br>&nbsp; &nbsp; Email : [sender_email]<br>&nbsp; &nbsp;Message:<br>&nbsp; &nbsp;[message][error_report]<strong><br><br></strong>Thanks<strong><br><br></strong>Rentstarz LLC<br>Copyright 2016 Rentstarz.com. All rights reserve<br>147 Prince St, Brooklyn NY 11201<strong><br><br><img src=""http://rentstarz.com/public/admin/footer.png"" alt="""" width=""469"" height=""317""><br></strong>"
+"_EMAIL_CORE_VERIFICATION_PASSWORD_SUBJECT";"Rentstarz - Email Verification"
+
+"_EMAIL_CORE_VERIFICATION_PASSWORD_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""714"" height=""85""><br> <br> Thank you for joining Rentstarz. To verify your email address and continue, please click the following link :<br> <br> <a href="http://[host][object_link]">http://[host][object_link]</a><br> <br> Email: [email]<br> Password: [password]<br> <br> Thanks<strong><br><br></strong>Rentstarz LLC<br>Copyright 2016 Rentstarz.com. All rights reserve<br>147 Prince St, Brooklyn NY 11201<strong><br><br></strong><img src=""http://rentstarz.com/public/admin/footer.png"" alt="""" width=""469"" height=""317"">"
+
+
+"_EMAIL_CORE_WELCOME_SUBJECT";"Welcome to Rentstarz!"
+"_EMAIL_CORE_WELCOME_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""663"" height=""78""><br> <br> Hi [recipient_title] , <br><br>  &nbsp; &nbsp;Thank you for joining Rentstarz. Click the following link and enter your information below to login:<br> <br>&nbsp; &nbsp;<a href=""http://[host][object_link]"">www.rentstarz.com</a><br> <br>&nbsp; &nbsp;Email: [email]<br> <br> Thanks<strong><br><br></strong>Rentstarz LLC<br>Copyright 2016 Rentstarz.com. All rights reserve<br>147 Prince St, Brooklyn NY 11201<strong><br><br><img src=""http://rentstarz.com/public/admin/footer.png"" alt="""" width=""469"" height=""317""><br></strong>"
+"_EMAIL_NOTIFY_FRIEND_FOLLOW_SUBJECT";"[sender_title] has started following you."
+"_EMAIL_NOTIFY_FRIEND_FOLLOW_BODYHTML";"[header]<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""663"" height=""78""><br> [sender_title] has started following you. Please click the following link to view the member:<br> <br> http://[host][object_link]<br> <br> Thanks<strong><br><br></strong>Rentstarz LLC<br>Copyright 2016 Rentstarz.com. All rights reserve<br>147 Prince St, Brooklyn NY 11201<strong><br><br><img src=""http://rentstarz.com/public/admin/footer.png"" alt="""" width=""469"" height=""317""><br></strong>"
+"_EMAIL_NOTIFY_TAGGED_SUBJECT";"You have Been Tagged"
+"_EMAIL_NOTIFY_TAGGED_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""663"" height=""78""><br> <br> You have been tagged in a [object_type_name]. Please click the following link to view it:<br> <br> http://[host][object_link]<br> <br> Thanks<strong><br><br></strong>Rentstarz LLC<br>Copyright 2016 Rentstarz.com. All rights reserve<br>147 Prince St, Brooklyn NY 11201<strong><br><br><img src=""http://rentstarz.com/public/admin/footer.png"" alt="""" width=""469"" height=""317""><br></strong>"
+"_EMAIL_INVITE_SUBJECT";"You have received an invitation to join Rentstarz."
+"_EMAIL_INVITE_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""663"" height=""78""><br> <br> You have been invited by [sender_title] to join Rentstrz. To join, please follow the link below:<br> <br> http://[host][object_link]<br> <br> ----------------------------------------<br> [message]<br> ----------------------------------------<br> <br> Thanks<strong><br><br></strong>Rentstarz LLC<br>Copyright 2016 Rentstarz.com. All rights reserve<br>147 Prince St, Brooklyn NY 11201<strong><br><br><img src=""http://rentstarz.com/public/admin/footer.png"" alt="""" width=""469"" height=""317""><br></strong>"
+"_EMAIL_INVITE_CODE_SUBJECT";"You have received an invitation to join Rentstarz!"
+"_EMAIL_INVITE_CODE_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""663"" height=""78""><br> <br> You have been invited by [sender_title] to join Rentstarz. To join, please follow the link below:<br> <br> http://[host][object_link]<br> <br> ----------------------------------------<br> [message]<br> ----------------------------------------<br> <br> Thanks<strong><br><br></strong>Rentstarz LLC<br>Copyright 2016 Rentstarz.com. All rights reserve<br>147 Prince St, Brooklyn NY 11201<strong><br><br><img src=""http://rentstarz.com/public/admin/footer.png"" alt="""" width=""469"" height=""317""><br></strong>"
+"_EMAIL_PAYMENT_SUBSCRIPTION_ACTIVE_SUBJECT";"Your subscription is now active."
+"_EMAIL_PAYMENT_SUBSCRIPTION_ACTIVE_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""663"" height=""78""><br> <br> Thank you for subscribing to our Rentstarz! Your subscription is now active.<br> <br> [subscription_title]<br> [subscription_description]<br> [subscription_terms]<br> <br> You may follow the link below to sign in.<br> <br> [object_link]<br> <br> Thanks<strong><br><br></strong>Rentstarz LLC<br>Copyright 2016 Rentstarz.com. All rights reserve<br>147 Prince St, Brooklyn NY 11201<strong><br><br><img src=""http://rentstarz.com/public/admin/footer.png"" alt="""" width=""469"" height=""317""><br></strong>"
+"_EMAIL_PAYMENT_SUBSCRIPTION_CANCELLED_SUBJECT";"Your subscription has been cancelled."
+"_EMAIL_PAYMENT_SUBSCRIPTION_CANCELLED_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""663"" height=""78""><br> <br> Your subscription has been cancelled.<br> <br> [subscription_title]<br> [subscription_description]<br> [subscription_terms]<br> <br> Please follow the link below to renew your subscription.<br> <br> [object_link]<br> <br> Thanks<strong><br><br></strong>Rentstarz LLC<br>Copyright 2016 Rentstarz.com. All rights reserve<br>147 Prince St, Brooklyn NY 11201<strong><br><br><img src=""http://rentstarz.com/public/admin/footer.png"" alt="""" width=""469"" height=""317""><br></strong>"
+"_EMAIL_PAYMENT_SUBSCRIPTION_EXPIRED_SUBJECT";"Your subscription has expired."
+"_EMAIL_PAYMENT_SUBSCRIPTION_EXPIRED_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""663"" height=""78""><br> <br> Your subscription has expired.<br> <br> [subscription_title]<br> [subscription_description]<br> [subscription_terms]<br> <br> Please follow the link below to renew your subscription.<br> <br> [object_link]<br> <br> Thanks<strong><br><br></strong>Rentstarz LLC<br>Copyright 2016 Rentstarz.com. All rights reserve<br>147 Prince St, Brooklyn NY 11201<br><br><img src=""http://rentstarz.com/public/admin/footer.png"" alt="""" width=""469"" height=""317""><strong><br></strong>"
+"_EMAIL_PAYMENT_SUBSCRIPTION_OVERDUE_SUBJECT";"Your subscription is overdue."
+"_EMAIL_PAYMENT_SUBSCRIPTION_OVERDUE_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""663"" height=""78""><br> <br> Your subscription is overdue because of a failed or missed payment.<br> <br> [subscription_title]<br> [subscription_description]<br> [subscription_terms]<br> <br> Please follow the link below to renew your subscription.<br> <br> [object_link]<br> <br> Thanks<strong><br><br></strong>Rentstarz LLC<br>Copyright 2016 Rentstarz.com. All rights reserve<br>147 Prince St, Brooklyn NY 11201<strong><br><br><img src=""http://rentstarz.com/public/admin/footer.png"" alt="""" width=""469"" height=""317""><br></strong>"
+"_EMAIL_PAYMENT_SUBSCRIPTION_PENDING_SUBJECT";"Your subscription is pending."
+"_EMAIL_PAYMENT_SUBSCRIPTION_PENDING_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""663"" height=""78""><br> <br> Thank you for subscribing to Rentstarz! Your subscription is<br> pending, awaiting completion of the transaction. Your membership will be<br> activated soon; we will notify you by email when it is ready.<br> Thank you for your patience.<br> <br> [subscription_title]<br> [subscription_description]<br> [subscription_terms]<br> <br> Thanks<strong><br><br></strong>Rentstarz LLC<br>Copyright 2016 Rentstarz.com. All rights reserve<br>147 Prince St, Brooklyn NY 11201<strong><br><br><img src="" http://rentstarz.com/public/admin/footer.png"" alt="""" width=""469"" height=""317""><br></strong>"
+"_EMAIL_PAYMENT_SUBSCRIPTION_RECURRENCE_SUBJECT";"Your subscription has been billed."
+"_EMAIL_PAYMENT_SUBSCRIPTION_RECURRENCE_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""663"" height=""78""><br> <br> Your subscription has been billed. You should receive an email from the<br> payment gateway regarding this charge. Thank you for subscribing to Rentstarz.<br> <br> [subscription_title]<br> [subscription_description]<br> [subscription_terms]<br> <br> You may follow the link below to sign in.<br> <br> [object_link]<br> <br> Thanks<strong><br><br></strong>Rentstarz LLC<br>Copyright 2016 Rentstarz.com. All rights reserve<br>147 Prince St, Brooklyn NY 11201<strong><br><br><img src="" http://rentstarz.com/public/admin/footer.png"" alt="""" width=""469"" height=""317""><br></strong>"
+"_EMAIL_PAYMENT_SUBSCRIPTION_REFUNDED_SUBJECT";"Your subscription has been refunded."
+"_EMAIL_PAYMENT_SUBSCRIPTION_REFUNDED_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""663"" height=""78""><br> <br> Your subscription has been refunded and is no longer active.<br> <br> [subscription_title]<br> [subscription_description]<br> [subscription_terms]<br> <br> You may follow the link below to sign in.<br> <br> [object_link]<br> <br> Thanks<strong><br><br></strong>Rentstarz LLC<br>Copyright 2016 Rentstarz.com. All rights reserve<br>147 Prince St, Brooklyn NY 11201<strong><br><br><img src="" http://rentstarz.com/public/admin/footer.png"" alt="""" width=""469"" height=""317""><br></strong>"
+"_EMAIL_NOTIFY_GROUP_ACCEPTED_SUBJECT";"You have been approved to join the group [object_title]"
+"_EMAIL_NOTIFY_GROUP_ACCEPTED_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""663"" height=""78""><br> <br> You have been approved to join the group ""[object_title]"". Please click the following link to view it:<br> <br> http://[host][object_link]<br> <br> Thanks<strong><br><br></strong>Rentstarz LLC<br>Copyright 2016 Rentstarz.com. All rights reserve<br>147 Prince St, Brooklyn NY 11201<strong><br><br><img src=""http://rentstarz.com/public/admin/footer.png"" alt="""" width=""469"" height=""317""><br></strong>"
+"_EMAIL_NOTIFY_GROUP_APPROVE_SUBJECT";"[sender_title] has requested to join the group [object_title]"
+"_EMAIL_NOTIFY_GROUP_APPROVE_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""663"" height=""78""><br> <br> [sender_title] has requested to join the group ""[object_title]"". Please click the following link to view it:<br> <br> http://[host][object_link]<br> <br> Thanks<strong><br><br></strong>Rentstarz LLC<br>Copyright 2016 Rentstarz.com. All rights reserve<br>147 Prince St, Brooklyn NY 11201<strong><br><br><img src="" http://rentstarz.com/public/admin/footer.png"" alt="""" width=""469"" height=""317""><br></strong>"
+"_EMAIL_NOTIFY_GROUP_DISCUSSION_REPLY_SUBJECT";"A member has posted a reply to your topic ""[object_title]"" in the group ""[object_parent_title]"""
+"_EMAIL_NOTIFY_GROUP_DISCUSSION_REPLY_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""663"" height=""78""><br> <br> [sender_title] has posted a reply to your topic ""[object_title]"" in the group ""[object_parent_title]"":<br> <br> ""[message]""<br> <br> Please click the following link to view it:<br> <br> http://[host][object_link]<br> <br> Thanks<strong><br><br></strong>Rentstarz LLC<br>Copyright 2016 Rentstarz.com. All rights reserve<br>147 Prince St, Brooklyn NY 11201<strong><br><br><img src=""http://rentstarz.com/public/admin/footer.png"" alt="""" width=""469"" height=""317""><br></strong>"
+"_EMAIL_NOTIFY_GROUP_DISCUSSION_RESPONSE_SUBJECT";"A member has posted a reply to the topic ""[object_title]"" you replied to in the group ""[object_parent_title]"""
+"_EMAIL_NOTIFY_GROUP_DISCUSSION_RESPONSE_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""663"" height=""78""><br> <br> [sender_title] has posted a reply to the topic ""[object_title]"" you replied to in the group ""[object_parent_title]"":<br> <br> ""[message]""<br> <br> Please click the following link to view it:<br> <br> http://[host][object_link]<br> <br> Thanks<strong><br><br></strong>Rentstarz LLC<br>Copyright 2016 Rentstarz.com. All rights reserve<br>147 Prince St, Brooklyn NY 11201<br><br><img src="" http://rentstarz.com/public/admin/footer.png"" alt="""" width=""469"" height=""317""><strong><br></strong>"
+"_EMAIL_NOTIFY_GROUP_INVITE_SUBJECT";"You have been invited to join the group [object_title]"
+"_EMAIL_NOTIFY_GROUP_INVITE_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""663"" height=""78""><br> <br> You have been invited to join the group ""[object_title]"". Please click the following link to view it:<br> <br> http://[host][object_link]<br> <br> Thanks<strong><br><br></strong>Rentstarz LLC<br>Copyright 2016 Rentstarz.com. All rights reserve<br>147 Prince St, Brooklyn NY 11201<strong><br><br><img src=""http://rentstarz.com/public/admin/footer.png"" alt="""" width=""469"" height=""317""><br></strong>"
+"_EMAIL_NOTIFY_GROUP_PROMOTE_SUBJECT";"You have been promoted to officer in the group [object_title]"
+"_EMAIL_NOTIFY_GROUP_PROMOTE_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""663"" height=""78""><br> <br> You have been promoted to officer in the group ""[object_title]"". Please click the following link to view it:<br> <br> http://[host][object_link]<br> <br> Thanks<strong><br><br></strong>Rentstarz LLC<br>Copyright 2016 Rentstarz.com. All rights reserve<br>147 Prince St, Brooklyn NY 11201<strong><br><br><img src=""http://rentstarz.com/public/admin/footer.png"" alt="""" width=""469"" height=""317""><br></strong>"
+"_EMAIL_NOTIFY_VIDEO_PROCESSED_FAILED_SUBJECT";"Your video ""[object_title]"" has failed to process"
+"_EMAIL_NOTIFY_VIDEO_PROCESSED_FAILED_BODYHTML";"[header]<br> <br> We apologize, but there was a problem processing your video. The message was:<br> ""[message]""<br> <br> Please click the following link to view it:<br> <br> http://[host][message_link]<br> <br> Thanks<strong><br><br></strong>Rentstarz LLC<br>Copyright 2016 Rentstarz.com. All rights reserve<br>147 Prince St, Brooklyn NY 11201<strong><br><br><img src=""http://rentstarz.com/public/admin/footer.png"" alt="""" width=""469"" height=""317""><br></strong>"
+"_EMAIL_NOTIFY_VIDEO_PROCESSED_SUBJECT";"Your video ""[object_title]"" has finished processing"
+"_EMAIL_NOTIFY_VIDEO_PROCESSED_BODYHTML";"[header]<br> <br> Your video has been processed and is ready to be viewed. Please click the following link to view it:<br> <br> http://[host][object_link]<br> <br> Thanks<strong><br><br></strong>Rentstarz LLC<br>Copyright 2016 Rentstarz.com. All rights reserve<br>147 Prince St, Brooklyn NY 11201<strong><br><br><img src="" http://rentstarz.com/public/admin/footer.png"" alt="""" width=""469"" height=""317""><br></strong>"
+"_EMAIL_NOTIFY_FRIEND_FOLLOW_ACCEPTED_SUBJECT";"[sender_title] has approved your request to follow them."
+"_EMAIL_NOTIFY_FRIEND_FOLLOW_ACCEPTED_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""663"" height=""78""><br> <br> [sender_title] has approved you to follow them. Please click the following link to sign in:<br> <br> http://[host][object_link]<br> <br> Thanks<strong><br><br></strong>Rentstarz LLC<br>Copyright 2016 Rentstarz.com. All rights reserve<br>147 Prince St, Brooklyn NY 11201<strong><br><br><img src=""http://rentstarz.com/public/admin/footer.png"" alt="""" width=""469"" height=""317""><br></strong>"
+"_EMAIL_CORE_WELCOME_PASSWORD_SUBJECT";"Welcome to Rentstarz!"
+"_EMAIL_CORE_WELCOME_PASSWORD_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""663"" height=""78""><br> <br> Thank you for joining Rentstarz. Click the following link and enter your information below to login:<br> <br> <a href=""http://[host][object_link]"">www.rentstarz.com</a><br> <br> Email: [email]<br> Password: [password]<br> <br> Thanks<strong><br><br></strong>Rentstarz LLC<br>Copyright 2016 Rentstarz.com. All rights reserve<br>147 Prince St, Brooklyn NY 11201<strong><br></strong><br><img src=""http://rentstarz.com/public/admin/footer.png"" alt="""" width=""469"" height=""317"">"
+"_EMAIL_NOTIFY_ADMIN_USER_SIGNUP_SUBJECT";"Someone has joined Rentstarz!"
+"_EMAIL_NOTIFY_ADMIN_USER_SIGNUP_BODYHTML";"<br><img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""663"" height=""78""><br> Congratulations, someone has joined Rentstarz. Welcome the new member to your site:<br> <br> [object_title] : http://[host][object_link]<br> Signup Date: [date]<br><br>Thanks<strong><br><br></strong>Rentstarz LLC<br>Copyright 2016 Rentstarz.com. All rights reserve<br>147 Prince St, Brooklyn NY 11201<strong><br><br><img src=""http://rentstarz.com/public/admin/footer.png"" alt="""" width=""469"" height=""317""><br></strong>"
+"_EMAIL_NOTIFY_LIKED_COMMENTED_SUBJECT";"[sender_title] commented on a post you like"
+"_EMAIL_NOTIFY_LIKED_COMMENTED_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""663"" height=""78""><br> <br> [sender_title] has commented on a post you liked. Please click the following link to view it:<br> <br> http://[host][object_link]<br> <br> Thanks<strong><br><br></strong>Rentstarz LLC<br>Copyright 2016 Rentstarz.com. All rights reserve<br>147 Prince St, Brooklyn NY 11201<strong><br><br><img src=""http://rentstarz.com/public/admin/footer.png"" alt="""" width=""469"" height=""317""><br></strong>"
+"_EMAIL_USER_ACCOUNT_APPROVED_SUBJECT";"Your account has been approved."
+"_EMAIL_USER_ACCOUNT_APPROVED_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""663"" height=""78""><br> <br> Your account has been approved by an administrator. Please click the following link to sign in:<br> <br> http://[host][object_link]<br> <br> Thanks<strong><br><br></strong>Rentstarz LLC<br>Copyright 2016 Rentstarz.com. All rights reserve<br>147 Prince St, Brooklyn NY 11201<strong><br><br><img src=""http://rentstarz.com/public/admin/footer.png"" alt="""" width=""469"" height=""317""><br></strong>"
+"_EMAIL_NOTIFY_COMMENTED_COMMENTED_SUBJECT";"[sender_title] also commented on a post you commented on"
+"_EMAIL_NOTIFY_COMMENTED_COMMENTED_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""663"" height=""78""><br> <br> [sender_title] has also commented on a post you commented on. Please click the following link to view it:<br> <br> http://[host][object_link]<br> <br> [<strong>A Better Way To Rent.<br></strong>Administration<strong><br><br><br></strong>Rentstarz LLC<br>Copyright 2016 Rentstarz.com. All rights reserve &nbsp;&nbsp;<br>147 Prince St, Brooklyn NY 11201&nbsp;<br><img src=""http://rentstarz.com/public/admin/streets2.png"" alt="""" width=""661"" height=""217"">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;"
+"_EMAIL_NOTIFY_FRIEND_FOLLOW_REQUEST_SUBJECT";"[sender_title] has requested to follow you."
+"_EMAIL_NOTIFY_FRIEND_FOLLOW_REQUEST_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""663"" height=""78""><br> <br> [sender_title] has requested to follow you. Please click the following link to sign in and confirm this request:<br> <br> http://[host][object_link]<br> <br> [<strong>A Better Way To Rent.<br></strong><span style=""font-size: 8pt;"">Administration<strong><br><br><br></strong>Rentstarz LLC</span><br><span style=""font-size: 8pt;"">Copyright 2016 Rentstarz.com. All rights reserve &nbsp;&nbsp;</span><br><span style=""font-size: 8pt;"">147 Prince St, Brooklyn NY 11201&nbsp;</span><br><img src=""http://rentstarz.com/public/admin/streets2.png"" alt="""" width=""661"" height=""217"">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;"
+"_EMAIL_NOTIFY_POST_USER_SUBJECT";"[sender_title] has posted on your profile"
+"_EMAIL_NOTIFY_POST_USER_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""663"" height=""78""><br> <br> [sender_title] has posted something on your profile. Please click the following link to view it.<br> <br> http://[host][object_link]<br> <br> [<strong>A Better Way To Rent.<br></strong>Administration<strong><br><br><br></strong>Rentstarz LLC<br>Copyright 2016 Rentstarz.com. All rights reserve &nbsp;&nbsp;<br>147 Prince St, Brooklyn NY 11201&nbsp;<br><img src=""http://rentstarz.com/public/admin/streets2.png"" alt="""" width=""661"" height=""217"">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;"
+"_EMAIL_NOTIFY_MESSAGE_NEW_SUBJECT";"You have received a new message from [sender_title]."
+"_EMAIL_NOTIFY_MESSAGE_NEW_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""663"" height=""78""><br> <br> You have just received a new message from [sender_title]:<br> <br> [object_description]<br> <br> Please click the following link to login and view it:<br> <br> http://[host][object_link]<br> <br> [<strong>A Better Way To Rent.<br></strong>Administration<strong><br><br><br></strong>Rentstarz LLC<br>Copyright 2016 Rentstarz.com. All rights reserve &nbsp;&nbsp;<br>147 Prince St, Brooklyn NY 11201&nbsp;<br><img src=""http://rentstarz.com/public/admin/streets2.png"" alt="""" width=""661"" height=""217"">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;"
+"_EMAIL_HEADER_SUBJECT";""
+"_EMAIL_HEADER_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""665"" height=""77""><br>&nbsp; &nbsp;<br>&nbsp; &nbsp; &nbsp;Hello [recipient_title],<br><br><br><img src=""http://www.rentstarz.com/public/admin/footer new.png"" alt="""" width=""976"" height=""372"">"
+"_EMAIL_CORE_LOSTPASSWORD_SUBJECT";"Rentstarz- Lost Password"
+"_EMAIL_CORE_LOSTPASSWORD_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""663"" height=""78""><br> <br> You have requested to reset your password because you have forgotten your password. If you did not request this, please ignore it. It will expire in 24 hours. To reset your password, please click the following link:<br> <br> http://[host][object_link]<br> <br> [<strong>A Better Way To Rent.<br></strong>Administration<strong><br><br><br></strong>Rentstarz LLC<br>Copyright 2016 Rentstarz.com. All rights reserve &nbsp;&nbsp;<br>147 Prince St, Brooklyn NY 11201&nbsp;<br><br><br><br><br><img src=""http://www.rentstarz.com/public/admin/footer new.png"" alt="""" width=""976"" height=""372"">"
+"_EMAIL_NOTIFY_FRIEND_REQUEST_SUBJECT";"[sender_title] has added you as a friend."
+"_EMAIL_NOTIFY_FRIEND_REQUEST_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""663"" height=""78""><br> <br> [sender_title] has added you as a friend. Please click the following link to sign in and confirm this friendship request:<br> <br> http://[host][object_link]<br><br><br><br><br>Rentstarz LLC<br>Copyright 2016 Rentstarz.com. All rights reserve <br>147 Prince St, Brooklyn NY 11201 <br><br> <br><img src=""http://www.rentstarz.com/public/admin/footernew.png"" alt="""" width=""976"" height=""372"">"
+"_EMAIL_CORE_VERIFICATION_SUBJECT";"Rentstarz - Email Verification"
+"_EMAIL_CORE_VERIFICATION_BODYHTML";"<img src=""http://rentstarz.com/public/admin/companyletterhead.png"" alt="""" width=""663"" height=""87"">&nbsp;<br><br><br> Hi [recipient_title] , <br><br>   Thank you for joining Rentstarz. To verify your email address and continue, please click the following link :<br><a href=""http://[host][object_link]"">    Verify email</a><br> <br>    Email: [email]<br> <br>    Thanks<strong><br><br></strong>    Rentstarz LLC<br>    Copyright 2016 Rentstarz.com. All rights reserve<br>    147 Prince St, Brooklyn NY 11201<strong><br><br></strong><img src=""http://rentstarz.com/public/admin/footer.png "" alt="""" width=""469"" height=""317"">"
